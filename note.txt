@@ -1,0 +1,1 @@
+mcp-proxy --sse-host=0.0.0.0 --sse-port=5566 --allow-origin="*" -- go run .
